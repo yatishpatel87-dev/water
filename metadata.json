@@ -1,0 +1,6 @@
+{
+  "name": "Unit 1: Water - Interactive Lesson",
+  "description": "Interactive step-by-step English learning lesson on Unit 1: Water with audio recitations, story activities, grammar challenges, and vocabulary games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
